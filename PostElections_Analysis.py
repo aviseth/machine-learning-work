@@ -9,10 +9,10 @@ cong_p=0
 cong_b=0
 cong_n=0
 
-consumer_key = 'DVVX885fe4Uw4aMlnyttFpjaY'
-consumer_skey = 'aOhBlVgiSGirlTQaWOZguO5mvyGUgMqeuUR9P91OVvtf2jowWQ'
-access_token = '147164311-rTzFPU9nzFR81GR1KW3tuNwnbOpge9dYYWfN79Rc'
-access_token_sk = '95T1ZupqsQyjvbsvB8QLijSaQzhOOB2SwVHClDXxMFq1q'
+consumer_key = 'XXXX'
+consumer_skey = 'XXXX'
+access_token = 'XXXX'
+access_token_sk = 'XXXX'
 
 auth = tweepy.OAuthHandler(consumer_key, consumer_skey)
 auth.set_access_token(access_token, access_token_sk)
